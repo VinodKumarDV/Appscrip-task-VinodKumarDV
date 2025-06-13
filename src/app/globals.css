@@ -1,0 +1,41 @@
+:root {
+  --bg: white;
+  --textColor: black;
+  --softBg: #f0f0f0;
+  --softTextColor: #626262;
+
+}
+
+.shop{
+  width: 100%;
+}
+body {
+  max-width: 100%;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.container {
+  min-height: 100vh;
+  background-color: var(--bg);
+  color: var(--textColor);
+}
+
+.wrapper {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media screen and (max-width: 768px) {
+  .wrapper {
+    max-width: 640px;
+  }
+}
+@media screen and (max-width: 640px) {
+  .wrapper {
+    max-width: 100%;
+  }
+}
