@@ -26,7 +26,6 @@ A fully responsive, SEO-optimized **Product Listing Page** built with **React.js
 
 - [React.js](https://reactjs.org/)
 - [Next.js](https://nextjs.org/)
-- [FakeStoreAPI](https://fakestoreapi.com/)
 - Plain CSS (no Tailwind/Bootstrap)
 - Deployed via [Netlify](https://www.netlify.com/)
 
