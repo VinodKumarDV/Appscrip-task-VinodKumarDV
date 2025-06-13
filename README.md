@@ -17,8 +17,8 @@ A fully responsive, SEO-optimized **Product Listing Page** built with **React.js
 
 ## 🔗 Live Demo & Repository
 
-- 🧑‍💻 GitHub Repo: []
-- 🌍 Netlify Link:   []
+- 🧑‍💻 GitHub Repo: [https://github.com/VinodKumarDV/Appscrip-task-VinodKumarDV](https://github.com/VinodKumarDV/Appscrip-task-VinodKumarDV)
+- 🌍 Netlify Link:   [https://static-ecommerce-webapp.netlify.app/](https://static-ecommerce-webapp.netlify.app/)
 
 ---
 
@@ -75,7 +75,7 @@ npm start
 ## 🧑 Author
 
 **VinodKumarDV**
-GitHub: [https://github.com/your-username](https://github.com/your-username)
-Email: [your.email@example.com](mailto:your.email@example.com)
+GitHub: [https://github.com/VinodKumarDV](https://github.com/VinodKumarDV)
+Email: [DVVINOD143@gmail.com](mailto:DVVINOD143@gmail.com)
 
 ```
